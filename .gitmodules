@@ -41,9 +41,6 @@
 [submodule "htmlwidgets"]
 	path = htmlwidgets
 	url = https://github.com/ramnathv/htmlwidgets
-[submodule "httpgd"]
-	path = httpgd
-	url = https://github.com/nx10/httpgd
 [submodule "httpuv"]
 	path = httpuv
 	url = https://github.com/rstudio/httpuv
