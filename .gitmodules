@@ -68,6 +68,9 @@
 [submodule "shiny"]
 	path = shiny
 	url = https://github.com/rstudio/shiny
+[submodule "shinycoreci"]
+	path = shinycoreci
+	url = https://github.com/rstudio/shinycoreci
 [submodule "shinyjster"]
 	path = shinyjster
 	url = https://github.com/schloerke/shinyjster
