@@ -1,5 +1,11 @@
 [
   {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["bslib"],
+    "from": "bslib"
+  },
+  {
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
     "via": ["bslib"],
