@@ -4,5 +4,12 @@
     "url": "https://github.com/rstudio/chromote",
     "via": ["shinycoreci"],
     "from": "shinycoreci"
+  },
+  {
+    "package": "future",
+    "url": "https://github.com/futureverse/future",
+    "via": ["shinycoreci"],
+    "branch": "shinycoreci",
+    "from": "shinycoreci"
   }
 ]
