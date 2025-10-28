@@ -4,11 +4,5 @@
     "url": "https://github.com/rstudio/chromote",
     "via": ["shinycoreci"],
     "from": "shinycoreci"
-  },
-  {
-    "package": "promises",
-    "url": "https://github.com/rstudio/promises",
-    "via": ["shiny"],
-    "from": "shiny"
   }
 ]
