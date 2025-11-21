@@ -4,5 +4,12 @@
     "url": "https://github.com/rstudio/chromote",
     "via": ["shinycoreci"],
     "from": "shinycoreci"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/schloerke/testthat",
+    "via": ["shinytest2"],
+    "branch": "patch-2",
+    "from": "shinytest2"
   }
 ]

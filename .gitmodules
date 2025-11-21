@@ -89,6 +89,11 @@
 [submodule "shinyvalidate"]
 	path = shinyvalidate
 	url = https://github.com/rstudio/shinyvalidate
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/schloerke/testthat
+	branch = patch-2
+	registered = false
 [submodule "thematic"]
 	path = thematic
 	url = https://github.com/rstudio/thematic
