@@ -1,8 +1,0 @@
-[
-  {
-    "package": "chromote",
-    "url": "https://github.com/rstudio/chromote",
-    "via": ["shinycoreci"],
-    "from": "shinycoreci"
-  }
-]
